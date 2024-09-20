@@ -1,10 +1,17 @@
 {
 	"name": "ShadowFax",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#101010",
+		"editor.foreground": "#101010",
+		"activityBarBadge.background": "#101010",
+		"sideBar.background": "#101010",
+		"activityBar.background": "#101010",
+		"commandCenter.background": "#101010",
+		"editorGroupHeader.tabsBackground": "#101010",
+		"statusBar.background": "#101010",
+		"statusBar.noFolderBackground": "#101010",
+		"titleBar.activeBackground": "#101010",
+		"titleBar.inactiveBackground": "#101010"
 	},
 	"tokenColors": [
 		{
@@ -75,7 +82,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#a1a1a1"
 			}
 		},
 		{
@@ -86,7 +93,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#35cbfb"
 			}
 		},
 		{
@@ -149,7 +156,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#a5d581"
 			}
 		},
 		{
@@ -238,7 +245,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ffd488"
 			}
 		},
 		{
