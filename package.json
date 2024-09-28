@@ -2,7 +2,9 @@
   "name": "shadowfax",
   "displayName": "Shadowfax",
   "description": "Unleash your coding powers with Shadowfax, a dark and sophisticated theme for VSCode",
+  "icon": "icon.png",
   "version": "0.0.1",
+  "publisher": "cesardarizaleta",
   "engines": {
     "vscode": "^1.93.0"
   },
